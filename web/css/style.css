@@ -42,10 +42,10 @@ body{
 	text-align: center;
 }
 .header-left span{
-	background:url(../images/iTunesArtwork.2x.png) no-repeat center;
+	background:url(../images/iTunesArtwork.2x.png) no-repeat center right;
 	display:inline-block;
 	width:300px;
-	height:300px;
+	height:500px;
 }
 .header-right p{
 	font-size: 2em;
@@ -1087,9 +1087,9 @@ input[type=checkbox].css-checkbox6:checked + label.css-label6 {
 		text-align: center;
 	}
 	.header-left span {
-		background: url(../images/iTunesArtwork.2x.png) no-repeat center;
+		background: url(../images/iTunesArtwork.2x.png) no-repeat center right;
 		width: 300px;
-		height:300px;
+		height:500px;
 	}
 	.header-right {
 		float:none;
@@ -1201,9 +1201,9 @@ input[type=checkbox].css-checkbox6:checked + label.css-label6 {
 		text-align: center;
 	}
 	.header-left span {
-		background: url(../images/iTunesArtwork.2x.png) no-repeat center;
+		background: url(../images/iTunesArtwork.2x.png) no-repeat center right;
 		width: 300px;
-		height:300px;
+		height:500px;
 	}
 	.header-right {
 		float:none;
