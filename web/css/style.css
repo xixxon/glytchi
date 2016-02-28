@@ -44,8 +44,8 @@ body{
 .header-left span{
 	background:url(../images/iTunesArtwork.2x.png) no-repeat 0px 0px;
 	display:inline-block;
-	width:330px;
-	height:720px;
+	width:300px;
+	height:300px;
 }
 .header-right p{
 	font-size: 2em;
@@ -1088,8 +1088,8 @@ input[type=checkbox].css-checkbox6:checked + label.css-label6 {
 	}
 	.header-left span {
 		background: url(../images/iTunesArtwork.2x.png) no-repeat 0px 0px;
-		width: 200px;
-		height:436px;
+		width: 300px;
+		height:300px;
 	}
 	.header-right {
 		float:none;
@@ -1202,8 +1202,8 @@ input[type=checkbox].css-checkbox6:checked + label.css-label6 {
 	}
 	.header-left span {
 		background: url(../images/iTunesArtwork.2x.png) no-repeat 0px 0px;
-		width: 200px;
-		height:436px;
+		width: 300px;
+		height:300px;
 	}
 	.header-right {
 		float:none;
