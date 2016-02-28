@@ -16,7 +16,6 @@
 .owl-carousel{
 	position: relative;
 	-ms-touch-action: pan-y;
-	background: url(../images/divice1.png) no-repeat 50%;
 	min-height: 600px;
 }
 .owl-carousel .owl-wrapper{
@@ -248,7 +247,6 @@
 		width: 73%;
 	}
 	.owl-carousel {
-		background: url(../images/divice2.png) no-repeat 50%;
 		min-height: 428px;
 	}
 	.owl-carousel .owl-item {
@@ -265,7 +263,6 @@
 		width: 73%;
 	}
 	.owl-carousel {
-		background: url(../images/divice1.png) no-repeat 50%;
 		min-height:559px;
 	}
 }
@@ -280,7 +277,6 @@
 		width: 73%;
 	}
 	.owl-carousel {
-		background: url(../images/640divice.png) no-repeat 50%;
 		min-height:559px;
 	}
 	.panel-left span {
@@ -307,7 +303,6 @@
 		width: 73%;
 	}
 	.owl-carousel {
-		background: url(../images/divice1.png) no-repeat 50%;
 		min-height:559px;
 	}
 	.panel-left span {
